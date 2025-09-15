@@ -1,4 +1,5 @@
 
+
 what is invalidate cache?
 ans)invalidate cache means clearing the stored data to fetch new results
 
@@ -75,8 +76,6 @@ Intermediate Level (OOPs, Functions, Advanced Data Types)
 
 10. Difference between deepcopy vs copy.copy() in Python
 - copy.copy() creates a shallow copy (references nested objects), while copy.deepcopy() creates a deep copy (recursively copies all nested objects).
-
-
 
 
 
